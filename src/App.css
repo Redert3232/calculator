@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+}
+.calculator{
+  margin-top: 100px;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+#display{
+  text-align: end;
+}
+
+button {
+  background-color: aqua;
+  width: 30%;
+}
+#clear{
+  width: 90%;
+}
+.operator{
+  background-color: #BFC423;
+}
